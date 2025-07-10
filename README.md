@@ -10,7 +10,7 @@ I’m constantly learning, experimenting, and pushing my limits in the tech spac
 
 ---
 
-**Name:** Kamsiyochukwu fredrick 
+**Name:** Kamsiyochukwu Fredrick  
 **Nickname:** Freddie  
 **Twitter:** [@fortexfreddie](https://twitter.com/fortexfreddie)  
 **GitHub:** [github.com/fortexfreddie](https://github.com/fortexfreddie)  
@@ -43,9 +43,26 @@ I’m constantly learning, experimenting, and pushing my limits in the tech spac
 
 ---
 
+### ⚙️ Tools & Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortexfreddie&show_icons=true&theme=radical&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortexfreddie&show_icons=true&theme=radical&border_radius=10)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortexfreddie&theme=radical&border_radius=10)
 
 ---
