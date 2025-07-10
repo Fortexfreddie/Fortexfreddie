@@ -63,7 +63,14 @@ I’m constantly learning, experimenting, and pushing my limits in the tech spac
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortexfreddie&show_icons=true&theme=radical&border_radius=10)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortexfreddie&theme=radical&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortexfreddie&theme=radical&border_radius=10)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortexfreddie&layout=compact&theme=radical)
+
+---
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=fortexfreddie&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
