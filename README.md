@@ -2,9 +2,9 @@
 
 💻 Full-Stack Developer | React | PHP | MySQL | Tailwind CSS | Flutter  
 🎯 Passionate about building clean, user-first web apps  
-🛠 Currently working on: Online Exam Platform & Real Estate App  
+🛠 Currently working on: Pi Marketplace & Real Estate App  
 🌱 Learning Dart & Flutter  
-📍 Based in FUTO, Nigeria
+📍 Based in Owerri, Nigeria
 
 ---
 
