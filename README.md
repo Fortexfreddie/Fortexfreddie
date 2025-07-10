@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fred Kamsy (**Freddie**)!
+# 👋 Hi there, I'm **Freddie**
 
 ---
 
@@ -54,8 +54,8 @@ I’m constantly learning, experimenting, and pushing my limits in the tech spac
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/fortexfreddie)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/fortexfreddie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourhandle)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/234XXXXXXXXXX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fred-kamsy-91685b295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/2347085062472)
 
 ---
 
