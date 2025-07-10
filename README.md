@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fred Kamsy (aka @fortexfreddie)
+# 👋 Hey, I'm Fred Kamsy (freddie)
 
 💻 Full-Stack Developer | React | PHP | MySQL | Tailwind CSS | Flutter  
 🎯 Passionate about building clean, user-first web apps  
