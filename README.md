@@ -1,41 +1,62 @@
-# 👋 Hey, I'm Fred Kamsy (freddie)
-
-💻 Full-Stack Developer | React | PHP | MySQL | Tailwind CSS | Flutter  
-🎯 Passionate about building clean, user-first web apps  
-🛠 Currently working on: Pi Marketplace & Real Estate App  
-🌱 Learning Dart & Flutter  
-📍 Based in Owerri, Nigeria
+# 👋 Hi there, I'm Fred Kamsy (**Freddie**)!
 
 ---
 
-## 🚀 Featured Projects
+## 📌 About Me
 
-- 🏠 [Real Estate App](https://github.com/fortexfreddie/real-estate-app)
-- 📚 [Online Exam Portal](https://github.com/fortexfreddie/exam-platform)
-- 🛍 [Pi Marketplace](https://github.com/fortexfreddie/pi-marketplace)
-
----
-
-## 🧮 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fortexfreddie&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortexfreddie&theme=radical)
+I’m on a mission to become a top-tier Full-Stack Developer and Software Engineer.  
+With a strong passion for shipping clean code, solving real problems, and building useful tools,  
+I’m constantly learning, experimenting, and pushing my limits in the tech space.
 
 ---
 
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+**Name:** Kamsiyochukwu fredrick 
+**Nickname:** Freddie  
+**Twitter:** [@fortexfreddie](https://twitter.com/fortexfreddie)  
+**GitHub:** [github.com/fortexfreddie](https://github.com/fortexfreddie)  
+**Location:** Owerri, Nigeria 🇳🇬
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Goals & Aspirations
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/fortexfreddie)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/fortexfreddie)
+- Build useful and beautiful applications that solve real-world problems 🌍  
+- Collaborate and grow with other passionate developers 🤝  
+- Master React, Tailwind, Flutter, Dart, and backend architecture 🧠  
+- Break into Web3, AI tools, and cutting-edge full-stack solutions 🚀
 
 ---
+
+## 🛠 Tech Stack
+
+### 🚧 Frontend
+- **Languages:** JavaScript, TypeScript, Dart  
+- **Frameworks:** React, Flutter  
+- **Styling:** Tailwind CSS, Sass  
+- **Security & Auth:** JWT, OAuth  
+
+### 🔧 Backend
+- **Languages:** PHP (MySQLi), Node.js (learning)  
+- **API:** RESTful APIs  
+- **Databases:** MySQL  
+- *(Learning MongoDB + GraphQL soon)*  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fortexfreddie&show_icons=true&theme=radical&border_radius=10)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fortexfreddie&theme=radical&border_radius=10)
+
+---
+
+## 📱 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/fortexfreddie)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/fortexfreddie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourhandle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/234XXXXXXXXXX)
+
+---
+
+> Let’s connect and collaborate! Feel free to explore my repos and reach out — I’m always down to build cool stuff. 💬
