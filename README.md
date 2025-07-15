@@ -39,7 +39,7 @@ I’m constantly learning, experimenting, and pushing my limits in the tech spac
 - **Languages:** PHP (MySQLi), Node.js (learning)  
 - **API:** RESTful APIs  
 - **Databases:** MySQL  
-- *(Learning MongoDB + GraphQL soon)*  
+- *(Learning MongoDB + PostgreSQL soon)*  
 
 ---
 
